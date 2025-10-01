@@ -12,3 +12,4 @@ print(f"{(first_name[:1]).lower()}{(first_name[1:]).upper()}" +\
 
 #Task 2
 quote = "“Once you start down the dark path, forever will it dominate your destiny."
+encypted_quote = ((quote.upper()).replace())
